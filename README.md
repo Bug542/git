@@ -10,7 +10,7 @@ My Hello World Demo! [Software Demo Video](https://youtu.be/UiLal5VHp_k)
 # Development Environment
 
 * Visual Studio Code
-* Python 3.10 64-bit
+* Python 3.11.5 64-bit
 * Git / Github
 
 
@@ -19,4 +19,4 @@ My Hello World Demo! [Software Demo Video](https://youtu.be/UiLal5VHp_k)
 
 
 * [Github](https://github.com/)
-* [Python 3.10 Reference Manual](https://docs.python.org/3/library/index.html)
+* [Python 3.11.5 Reference Manual](https://docs.python.org/3/library/index.html)
