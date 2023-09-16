@@ -19,4 +19,4 @@ This is a simple Hello World Program, I created this program in order to make us
 
 
 * [Github](https://github.com/)
-* [Python 3.10 Reference Manual](https://docs.python.org/3.10/whatsnew/3.10.html)
+* [Python 3.10 Reference Manual](https://docs.python.org/3/library/index.html)
