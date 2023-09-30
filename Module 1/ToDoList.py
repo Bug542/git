@@ -30,9 +30,13 @@ def view_task():
       
 while True:
     print ("\nwhat do you want to do")
+
     print ("1. ADD a Task" )
+
     print ("2. Remove a task")
+
     print ("3. View all task")
+
     print ("4. Exit")
 
     ## if else statemnt for id 
@@ -41,11 +45,14 @@ while True:
     choice = input("Enter choice")
 
     if choice == "1":
+
         task = input("Enter a new Task")
         add_task(task)
     elif choice == "2":
+
         task = input("Enter a new task")
         remove_task(task)
+        
     elif choice == "3":
         view_task()
     elif choice == "4":
