@@ -8,7 +8,8 @@ def add_task(task):
   
 def remove_task(task):
 
-  ## Remove Task 
+  ## If else statement for removinh tasks
+  ## this will also print a "remove task"
 
     if task in tasks:
         tasks.remove(task)
@@ -19,10 +20,13 @@ def remove_task(task):
 def view_task():
 
     ## view all tasks in list
+    ## pritn statemnt to vie taks that have been stored
 
-    print("To=do List:")
+    print("To-do List:")
     for i, task in enumerate(tasks):
         print(f"{i+1}. {task}")
+
+    ## Display the options base on id for user to pick
       
 while True:
     print ("\nwhat do you want to do")
@@ -30,6 +34,9 @@ while True:
     print ("2. Remove a task")
     print ("3. View all task")
     print ("4. Exit")
+
+    ## if else statemnt for id 
+    ## This wil provide option to add,remove,view, and exit task
 
     choice = input("Enter choice")
 
