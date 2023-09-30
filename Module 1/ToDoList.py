@@ -31,7 +31,7 @@ while True:
     print ("3. View all task")
     print ("4. Exit")
 
-    choice = input("Enter choise")
+    choice = input("Enter choice")
 
     if choice == "1":
         task = input("Enter a new Task")
