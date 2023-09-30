@@ -1,38 +1,29 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of the software that you wrote and how it integrates with a Cloud Database. Describe how to use your program.}
+This is a simple program made to store tasks, with the options of Entering a new task, Removing a task, and Viewing all tasks. 
+The goal for this projec it to be able to send taks to the cloud using google Forirebase as the driver. The Program is assigned with # id that will let you pick out from the 4 different options, 
+this is done by creating classes with a assigned task. The main Purpose of this program is to help people who enjoy working with a schedule have a program that will help them keep up with taks that need to get done. 
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Cloud Database
-
-{Describe the cloud database you are using.}
-
-{Describe the structure of the database that you created.}
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Visual Studio Code
+Python 3.11.5 64-bit
+Git / Github
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-
+- [W3Schools](https://www.w3schools.com/)
+- [StackOverflow](https://stackoverflow.com/)
+- [Programiz](https://www.programiz.com/python-programming/list)
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Item 1 - Implment ToDoList with Google FireBase       
+- Item 2 - Store Task in Google FireBase        
+- Item 3 - Easy Access to Tasks on application
