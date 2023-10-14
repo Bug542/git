@@ -2,9 +2,8 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
+This ia a simple snake game build in Python using Pygame and Tutrtle Library. This program is designed to show how Pygame and Tutle Libraries can help crete
+ a graphical application, in this case a simple video game with integrated graphics and controlls. This Program is also intented to be a fun game for the user to have a challenge and see how long the snake can continue  to move without eating itself. 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
@@ -12,19 +11,23 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Visual Studio Code
+* Python 3.11.5 64-bit
+* Git / Github
 
-{Describe the programming language that you used and any libraries.}
+
+* PyGame
+* Turtle Library
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Real Python](https://realpython.com/beginners-guide-python-turtle/#getting-to-know-the-python-turtle-library)
+* [Youtube](https://www.youtube.com/)
+* [W3schools] (https://www.w3schools.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+
+* Item 1 Add score
+* Item 2 Add ammount of food for snake to eat 
+* Item 3 Add menu 
