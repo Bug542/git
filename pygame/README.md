@@ -1,7 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This ia a simple snake game build in Python using Pygame and Tutrtle Library. This program is designed to show how Pygame and Tutle Libraries can help crete
  a graphical application, in this case a simple video game with integrated graphics and controlls. This Program is also intented to be a fun game for the user to have a challenge and see how long the snake can continue  to move without eating itself. 
 
