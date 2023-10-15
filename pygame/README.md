@@ -20,7 +20,7 @@ This ia a simple snake game build in Python using Pygame and Tutrtle Library. Th
 
 * [Real Python](https://realpython.com/beginners-guide-python-turtle/#getting-to-know-the-python-turtle-library)
 * [Youtube](https://www.youtube.com/)
-* [W3schools] (https://www.w3schools.com/)
+* [W3schools](https://www.w3schools.com/)
 
 # Future Work
 
