@@ -12,21 +12,23 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Python 3.11.5 64-bit
+* Git / Github
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3 Schools](https://www.w3schools.com/css/)
+- [Youtube](https://www.youtube.com/)
+- [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Item 1 Add more Athetlic theme to the stopwatch 
+- Item 2 Create a log for times 
+- Item 3 Add for lap times
