@@ -13,7 +13,7 @@
 # Development Environment
 
 * Visual Studio Code
-* Python 3.11.5 64-bit
+* Javascript 
 * Git / Github
 
 # Useful Websites
