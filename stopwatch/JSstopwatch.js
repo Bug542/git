@@ -1,3 +1,5 @@
+// Create Id for Each element
+
 window.onload = function () {
   
   var seconds = 0o0; 
@@ -8,6 +10,8 @@ window.onload = function () {
   var buttonStop = document.getElementById('button-stop');
   var buttonReset = document.getElementById('button-reset');
   var Interval ;
+
+  // Button Function will start Time/Stop Time
 
   buttonStart.onclick = function() {
     
@@ -20,6 +24,8 @@ window.onload = function () {
   }
   
 
+  // Button Function will Reset Time
+
   buttonReset.onclick = function() {
      clearInterval(Interval);
     tens = "00";
@@ -28,7 +34,8 @@ window.onload = function () {
   	appendSeconds.innerHTML = seconds;
   }
   
-   
+ 
+  // if statements for tens and seconds
   
   function startTimer () {
     tens++; 
