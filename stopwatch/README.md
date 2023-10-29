@@ -1,5 +1,10 @@
 # Overview
 
+This is a simple pragram that can be used to record lap times if you are planning on trining for a race. The program is designed to be simple to use.
+ 
+
+
+
 {Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
 {Provide a description of the software that you wrote to demonstrate the JavaScript language.}
