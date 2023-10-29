@@ -4,7 +4,8 @@ This is a simple pragram that can be used to record lap times if you are plannin
 Program was made to be use with only 3 buttoms, this allows for anyone to understand the simplicity and effeciency of this program. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video #1](https://youtu.be/0-dbgEp8wos)
+[Software Demo Video #2](https://youtu.be/n2uE4Zja4Ko)
 
 # Development Environment
 
