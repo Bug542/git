@@ -1,17 +1,8 @@
 # Overview
 
 This is a simple pragram that can be used to record lap times if you are planning on trining for a race. The program is designed to be simple to use.
- 
+Program was made to be use with only 3 buttoms, this allows for anyone to understand the simplicity and effeciency of this program. 
 
-
-
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -34,6 +25,6 @@ This is a simple pragram that can be used to record lap times if you are plannin
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1 Add more Athetlic theme to the stopwatch 
+- Item 1 Add more Athletic theme to the stopwatch 
 - Item 2 Create a log for times 
 - Item 3 Add for lap times
