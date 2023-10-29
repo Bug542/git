@@ -10,7 +10,7 @@ Program was made to be use with only 3 buttoms, this allows for anyone to unders
 # Development Environment
 
 * Visual Studio Code
-* Javascript 
+* Javascript/HTML/CSS 
 * Git / Github
 
 # Useful Websites
