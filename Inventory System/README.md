@@ -2,7 +2,7 @@
 
 This Program was designed to help with tracking items by ID,Item,Price and Quantity. This can be used to facilitate keeping count of invetory.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jKJAF44shTU)
 
 # Relational Database
 
