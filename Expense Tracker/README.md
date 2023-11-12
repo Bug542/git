@@ -1,38 +1,34 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
+This Program was designed to help with tracking items by ID,Item,Price and Quantity. This can be used to facilitate keeping count of invetory.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Relational Database
 
-{Describe the relational database you are using.}
 
-{Describe the structure (tables) of the relational database that you created.}
+A Table is created in order for user to have simple use of the application. Data was implemented both in rows and colums in order to created frienly user experience.
+Each structure (table) is asigned and Id in order to store data and help determine user input. 
+
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Python 3.11.5 64-bit
+* SqLite3
+* Tkinter
+* Git / Github
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Stackoverflow](https://stackoverflow.com/)
+- [Python/SqLite3](https://docs.python.org/3.8/library/sqlite3.html)
+- [SqLiteTutorial](https://www.sqlitetutorial.net/)
+- [Tutorials Point](https://www.tutorialspoint.com/sqlite/sqlite_python.htm)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Item 1 Save Lists 
+- Item 2 Update UI 
+- Item 3 Add Sorting Options 
