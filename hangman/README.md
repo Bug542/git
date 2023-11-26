@@ -2,7 +2,7 @@
 
 This is program is a simple game of Hangman, it was created using Rust and Cargo. The program was designed to challegenge the users mind into completeing the hangman challege.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/k0fpAssKP1w)
 
 # Development Environment
 
