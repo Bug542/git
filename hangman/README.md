@@ -1,6 +1,6 @@
 # Overview
 
-This is program is a simple game of Hangman, it was created using Rust and Cargo. The program was designed to challegenge the users mind into completeing the hangman challege.
+This program is a simple game of Hangman, it was created using Rust and Cargo. The program was designed to challegenge the users mind into completeing the guessing game. 
 
 [Software Demo Video](https://youtu.be/k0fpAssKP1w)
 
