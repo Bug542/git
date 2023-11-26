@@ -44,7 +44,6 @@ fn main() {
 
         fn generate_random_word(list: &Vec<String>) -> String {
             let word = list.choose(&mut rand::thread_rng()).unwrap();
-            // println!("word {:?}", word);
             word.to_string()
         }
     }
@@ -101,7 +100,6 @@ fn main() {
             Some(val) => val,
             _ => {
                 println!("No letter inputted,type a letter!");
-                //It complains it needs a char :D
                 '0'
             }
         };
