@@ -1,7 +1,6 @@
 # Overview
 
-This is a simple program made to store tasks, with the options of Entering a new task. 
-Removing a task, and Viewing all tasks.   
+This is a simple program made to store tasks, and Viewing all tasks.   
 The main Purpose of this program is to help people who enjoy working with a schedule have a program that will help them keep up with taks that need to get done.
 
 
